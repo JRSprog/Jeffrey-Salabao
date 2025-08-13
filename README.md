@@ -9,7 +9,7 @@ Welcome to my GitHub! I love building modern, responsive, and user-friendly web 
 ## 🚀 About Me
 - 🌱 Currently learning **React & Tailwind**
 - 🔭 Working on a **School Management System** project
-- 🛠 Skilled in **HTML, CSS, JavaScript, PHP, Bootstrap**
+- 🛠 Skilled in **HTML, CSS, JavaScript, PHP(Laravel), Bootstrap**
 - 🎯 Goal: Become a full-stack developer
 - 🎓 I'm a Fresh Graduate in Bachelor of Science in Information Technology major in Information Management 
 
