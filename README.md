@@ -28,16 +28,15 @@ Welcome to my GitHub! I love building modern, responsive, and user-friendly web 
 ## 📂 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| 📚 **School Management System** | Manage students, fees, and approvals with PHP backend | [Repo](https://github.com/yourusername/school-management-system) |
-| 🛒 **POS System** | Inventory & sales tracking web app | [Repo](https://github.com/yourusername/pos-system) |
-| **Online Enrollment & School Portal** | Landing Page of School and Enrollment with School personnel page | .[Repo]
-(https://paso-de-blas-nhs.iceiy.com/PDBNHS/login.php
+| 📚 **School Management System** | Manage students, fees, and approvals with PHP backend | [Repo](https://github.com/JRSprog/dash/tree/main/mis) |
+| 🛒 **POS System** | Inventory & sales tracking web app | [Repo](https://github.com/JRSprog/dash/tree/main/Inventory) |
+| 🛒 **Online Enrollment & School Portal** | Landing page about School with School personnel acc page | [Repo](https://jrsprog.github.io/PDBNHS/enrollment.html) |
 | 📊 **Portfolio Website** | Personal portfolio hosted on GitHub Pages | [Live](https://yourusername.github.io/) |
 
 ---
 
 ## 📫 Contact Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/yourusername)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/jeffrey.romero.salabao)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salabaojeffrey024@gmail.com)
 
 ---
