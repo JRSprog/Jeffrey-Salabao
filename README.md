@@ -31,7 +31,7 @@ Welcome to my GitHub! I love building modern, responsive, and user-friendly web 
 | 📚 **School Management System** | Manage students, fees, and approvals with PHP backend | [Repo](https://github.com/JRSprog/dash/tree/main/mis) |
 | 🛒 **POS System** | Inventory & sales tracking web app | [Repo](https://github.com/JRSprog/dash/tree/main/Inventory) |
 | 🏫 **Online Enrollment & School Portal** | Landing page about School with School personnel acc page | [Repo](https://jrsprog.github.io/PDBNHS/enrollment.html) |
-| 📊 **Portfolio Website** | Personal portfolio hosted on GitHub Pages | [Live](https://github.com/JRSprog/Jeffrey-Salabao) |
+| 📊 **Portfolio Website** | Personal portfolio hosted on GitHub Pages | [Live](https://jrsprog.github.io/MyProfile/Myprofile.html) |
 
 ---
 
